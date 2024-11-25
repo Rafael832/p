@@ -1,1 +1,1 @@
-# p
+# pensamento  computacional. 
